@@ -1,1 +1,2 @@
+git+https://github.com/chris48s/arcgis2geojson.git
 git+https://github.com/wdiv-scrapers/dc-base-scrapers.git
